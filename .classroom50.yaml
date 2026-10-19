@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0401"
+secret: "nmm2dsr0"
+owner:
+  username: "shoma054"
+  id: 337910769
+  accepted_at: "2026-10-19T03:10:48Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0401-simple_calculation"
+  branch: "main"
